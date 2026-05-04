@@ -12,5 +12,9 @@ while i=4:
     t.done()
 #Patrik,ket emeletes haz alja
 
-
+#Sebi hazteto
 t.setheading(135)
+t.forward(60)
+t.setheading(-135)
+t.forward(60)
+t.done()
